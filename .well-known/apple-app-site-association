@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "67V847367C.com.rules-app",
-        "paths": ["/"]
+        "paths": ["*"]
       }
     ]
   }
