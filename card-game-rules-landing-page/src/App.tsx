@@ -16,7 +16,7 @@ const App: React.FC = () => {
         target="_blank" 
         rel="noopener noreferrer"
       >
-        <img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download Card Game Rules on the AppStore" className="image-link"/>
+        <img src="/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download Card Game Rules on the AppStore" className="image-link"/>
       </a>
     </div>
   );
